@@ -95,8 +95,8 @@ DB_HOST: db
 ---
 
 ## 📸 Screenshot
-![1](1.PNG)
-![2](2.PNG)
-![3](3.PNG)
+![1](1.png)
+![2](2.png)
+![3](3.png)
 
 
